@@ -1,0 +1,11 @@
+http://localhost:3000/produtorio?m=6&n=10&metodo=iterativa
+
+{
+    "resultado": 32933.54828042328
+}
+
+http://localhost:3000/produtorio?m=5&n=10&metodo=recursiva
+
+{
+    "resultado": 171254.45105820108
+}
